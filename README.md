@@ -113,13 +113,20 @@ From crafting Predictive Models to unlocking the potential of Computer Vision, f
 As I extend a digital hand to you, I invite you to join me in this adventure. Let's explore, learn, and create together in the mesmerizing world of Data Science and Machine Learning. Your interest in my portfolio means the world to me. Together, let's ride the waves of innovation, composing a harmonious future shaped by data-driven dreams.
 
 # Work Experience 
-&emsp; :computer: [__Senior Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Kodesystems__]() __[Mar 2024 - Sep 2024]__
+&emsp; :computer: [__AI Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__Archon Soft.__]() __[Jan 2025 - Present]__
 
-- Developed and implemented large-scale web applications using HTML, CSS, React.js, Node.js, JSON, and REST web services
-- Developed a cutting-edge system leveraging SQL for efficient loading, management, and modelling of user data collection for
-DHL projects, resulting in an impressive 80% reduction in manual intervention  
-- In collaboration with a team of 10 engineers, I revamped the web application, achieving a remarkable 60% usability
-improvement through active problem-solving and leveraging diverse skill    
+- Reduced data transformation time by 40% by optimizing Spark jobs on Databricks with Spark SQL..
+- Cut deployment time by 50% using CI/CD pipelines to deploy models on AWS SageMaker.
+- Built scalable data lakes on S3 with AWS Glue, Athena, and Lake Formation for secure, serverless data processing.
+- Improved Chatbot Accuracy: Enhanced chatbot model performance by 20% using LLMs (Large Language Models) integrated with LangChain and Hugging Face Transformers for advanced natural language understanding.
+- Improved chatbot accuracy by 20% by integrating LLMs with LangChain and Hugging Face Transformers for advanced NLP.
+
+&emsp; :computer: [__Data Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__CVS Health__]() __[Mar 2024 - Dec 2024]__
+
+- Preprocessed and Cleaned Large-Scale Text Data: Processed unstructured clinical notes, doctors’ reports, and patient feedback using Python, NLTK, and spaCy—handling misspellings, noise, and inconsistencies to improve text data quality for NLP tasks.
+- Engineered NLP Features for Predictive Modelling: Extracted key linguistic features (e.g., sentiment, named entities, TF-IDF scores) to enhance model performance in clinical text classification, boosting accuracy by 15%.
+- Built Real-Time Text Data Pipelines: Designed scalable workflows with Apache Kafka and AWS Glue to ingest and process streaming text data from EHRs, patient surveys, and medical literature, enabling timely NLP-driven insights.
+- Designed and supervised machine learning models (e.g., XGBoost, Random Forests) to predict adverse drug reactions and hospital-acquired infections, achieving 90%+ accuracy on validation datasets.
 
 &emsp; :computer: [__Lead Engineer__](https://github.com/iqrabismii/Work-Experience/blob/main/Senior%20Executive%2C%20ONGC%2C%20India.MD) |[__HCL Technologies__](https://www.hcltech.com/) __[May 2019 - Nov 2021]__
 - Led a team of 5, driving project development and ensuring on-time delivery
